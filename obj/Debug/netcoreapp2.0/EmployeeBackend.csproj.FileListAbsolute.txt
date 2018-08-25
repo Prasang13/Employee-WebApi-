@@ -1,0 +1,11 @@
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\bin\Debug\netcoreapp2.0\EmployeeBackend.deps.json
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\bin\Debug\netcoreapp2.0\EmployeeBackend.runtimeconfig.json
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\bin\Debug\netcoreapp2.0\EmployeeBackend.runtimeconfig.dev.json
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\bin\Debug\netcoreapp2.0\EmployeeBackend.dll
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\bin\Debug\netcoreapp2.0\EmployeeBackend.pdb
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\obj\Debug\netcoreapp2.0\EmployeeBackend.csproj.CoreCompileInputs.cache
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\obj\Debug\netcoreapp2.0\EmployeeBackend.AssemblyInfoInputs.cache
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\obj\Debug\netcoreapp2.0\EmployeeBackend.AssemblyInfo.cs
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\obj\Debug\netcoreapp2.0\EmployeeBackend.dll
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\obj\Debug\netcoreapp2.0\EmployeeBackend.pdb
+C:\AspWithAngular\EmployeeBackend\EmployeeBackend\obj\Debug\netcoreapp2.0\EmployeeBackend.csprojAssemblyReference.cache
